@@ -2,7 +2,7 @@
 
 - 10 Mins to Pandas (official site) <https://pandas.pydata.org/docs/user_guide/10min.html>
 ***
-- Time <https://github.com/llxx1998/Pandas-at-work/blob/main/Time-series.ipynb>
+- Time <https://github.com/llxx1998/Pandas-at-work/blob/main/Time_series.ipynb>
 - DataFrame Operation <https://github.com/llxx1998/Pandas-at-work/blob/main/DataFrame%20Operation.ipynb>
 - DataFrame Mergence <https://pandas.pydata.org/docs/user_guide/merging.html>
 > 1. concat: ```pd.concat([df1, df2], axis='index'/'columns')```. df1 and df2 have the same columns. They are stacked vertically. 
