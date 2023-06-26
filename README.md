@@ -7,7 +7,7 @@
 - DataFrame Mergence <https://pandas.pydata.org/docs/user_guide/merging.html>
 > 1. concat: ```pd.concat([df1, df2], axis='index'/'columns')```. df1 and df2 have the same columns. They are stacked vertically. 
 > 2. append: append single row.
-- Multi-index
+- Multi-index, etc. <https://github.com/llxx1998/Pandas-at-work/blob/main/Miscellaneous.ipynb>
 ***
 More to come:
 - Performance Topic: Cython, Numba, etc.
